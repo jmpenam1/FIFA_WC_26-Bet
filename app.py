@@ -23,7 +23,7 @@ STAGE_LABELS = {
     STAGE_KNOCKOUT: "Fase eliminatoria",
 }
 
-st.title("⚽ FIFA World Cup 2026 - Tracker de predicciones")
+st.title("FIFA World Cup 2026 - Tracker de predicciones")
 st.caption("Carga predicciones por etapa, compara contra resultados reales y genera rankings independientes y acumulados.")
 
 with st.sidebar:
@@ -43,7 +43,7 @@ with st.sidebar:
             )
 
 st.info(
-    "La quiniela está separada en dos oportunidades: fase de grupos y fase eliminatoria. "
+    "La polla está separada en dos oportunidades: fase de grupos y fase eliminatoria. "
     "La eliminatoria se llena después de conocer los cruces reales."
 )
 
